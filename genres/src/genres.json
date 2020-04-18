@@ -1,0 +1,376 @@
+{
+    "genres": [
+        {
+            "standAlone": true,
+            "suffix": true,
+            "prefix": true,
+            "name": "Electronic"
+        },
+        {
+            "standAlone": true,
+            "suffix": true,
+            "prefix": true,
+            "name": "Folk"
+        },
+        {
+            "standAlone": true,
+            "suffix": true,
+            "prefix": true,
+            "name": "Pop"
+        },
+        {
+            "standAlone": false,
+            "suffix": true,
+            "prefix": true,
+            "name": "Cowboy"
+        },
+        {
+            "standAlone": true,
+            "suffix": false,
+            "prefix": true,
+            "name": "Christian"
+        },
+        {
+            "standAlone": true,
+            "suffix": false,
+            "prefix": true,
+            "name": "Disco"
+        },
+        {
+            "standAlone": true,
+            "suffix": false,
+            "prefix": true,
+            "name": "Experimental"
+        },
+        {
+            "standAlone": true,
+            "suffix": false,
+            "prefix": true,
+            "name": "Gospal"
+        },
+        {
+            "standAlone": true,
+            "suffix": false,
+            "prefix": true,
+            "name": "House"
+        },
+        {
+            "standAlone": true,
+            "suffix": false,
+            "prefix": true,
+            "name": "Indie"
+        },
+        {
+            "standAlone": true,
+            "suffix": false,
+            "prefix": true,
+            "name": "Latin"
+        },
+        {
+            "standAlone": true,
+            "suffix": false,
+            "prefix": true,
+            "name": "Regge"
+        },
+        {
+            "standAlone": true,
+            "suffix": false,
+            "prefix": true,
+            "name": "Soul"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Acid"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Bubblegum"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Electro"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Elevator"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Emo"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Garage"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Glam"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Grind"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Hard"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Industrial"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "J-"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "K-"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Math"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Neo"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "New"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Old School"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Outlaw"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Post"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Power"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Prog"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Psych"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Soft"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Space"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Surf"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Synth"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Techno"
+        },
+        {
+            "standAlone": true,
+            "suffix": true,
+            "prefix": false,
+            "name": "Bluegrass"
+        },
+        {
+            "standAlone": true,
+            "suffix": true,
+            "prefix": false,
+            "name": "Country"
+        },
+        {
+            "standAlone": true,
+            "suffix": true,
+            "prefix": false,
+            "name": "EDM"
+        },
+        {
+            "standAlone": true,
+            "suffix": true,
+            "prefix": false,
+            "name": "Grunge"
+        },
+        {
+            "standAlone": true,
+            "suffix": true,
+            "prefix": false,
+            "name": "Hip Hop"
+        },
+        {
+            "standAlone": true,
+            "suffix": true,
+            "prefix": false,
+            "name": "Jazz"
+        },
+        {
+            "standAlone": true,
+            "suffix": true,
+            "prefix": false,
+            "name": "Metal"
+        },
+        {
+            "standAlone": true,
+            "suffix": true,
+            "prefix": false,
+            "name": "Rap"
+        },
+        {
+            "standAlone": true,
+            "suffix": true,
+            "prefix": false,
+            "name": "Rock"
+        },
+        {
+            "standAlone": true,
+            "suffix": true,
+            "prefix": false,
+            "name": "Trance"
+        },
+        {
+            "standAlone": false,
+            "suffix": true,
+            "prefix": false,
+            "name": "Classic"
+        },
+        {
+            "standAlone": false,
+            "suffix": true,
+            "prefix": false,
+            "name": "Core"
+        },
+        {
+            "standAlone": false,
+            "suffix": true,
+            "prefix": false,
+            "name": "Step"
+        },
+        {
+            "standAlone": false,
+            "suffix": true,
+            "prefix": false,
+            "name": "Wave"
+        },
+        {
+            "standAlone": true,
+            "suffix": false,
+            "prefix": false,
+            "name": "Alternative"
+        },
+        {
+            "standAlone": true,
+            "suffix": false,
+            "prefix": false,
+            "name": "Americana"
+        },
+        {
+            "standAlone": true,
+            "suffix": false,
+            "prefix": false,
+            "name": "Blues"
+        },
+        {
+            "standAlone": true,
+            "suffix": false,
+            "prefix": false,
+            "name": "Contemporary"
+        },
+        {
+            "standAlone": true,
+            "suffix": false,
+            "prefix": false,
+            "name": "Funk"
+        },
+        {
+            "standAlone": true,
+            "suffix": false,
+            "prefix": false,
+            "name": "R&B"
+        },
+        {
+            "standAlone": true,
+            "suffix": false,
+            "prefix": false,
+            "name": "Reggeaton"
+        },
+        {
+            "standAlone": true,
+            "suffix": false,
+            "prefix": false,
+            "name": "Singer-Songwriter"
+        },
+        {
+            "standAlone": true,
+            "suffix": false,
+            "prefix": false,
+            "name": "Ska"
+        }
+    ]
+}
