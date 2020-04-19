@@ -20,7 +20,7 @@
         },
         {
             "standAlone": false,
-            "suffix": true,
+            "suffix": false,
             "prefix": true,
             "name": "Cowboy"
         },
@@ -296,8 +296,8 @@
         },
         {
             "standAlone": false,
-            "suffix": true,
-            "prefix": false,
+            "suffix": false,
+            "prefix": true,
             "name": "Classic"
         },
         {
@@ -371,6 +371,42 @@
             "suffix": false,
             "prefix": false,
             "name": "Ska"
+        },
+        {
+            "standAlone": true,
+            "suffix": false,
+            "prefix": false,
+            "name": "Waltz"
+        },
+        {
+            "standAlone": true,
+            "suffix": false,
+            "prefix": false,
+            "name": "Waltz"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Progressive"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Ambient"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Southern"
+        },
+        {
+            "standAlone": false,
+            "suffix": false,
+            "prefix": true,
+            "name": "Death"
         }
     ]
 }
