@@ -5,6 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: #1c3334;
+  color: white;
+  text-align: center;
+  
 }
 
 code {
@@ -12,15 +16,46 @@ code {
     monospace;
 }
 
+.body{
+  height: 100vh;
+  width: 100%;
+  /* margin-top:40%; */
+  position: absolute;
+}
+.head{
+  width: 100%;
+  top: 30%;
+  position: absolute;
+  font-size: 32pt;
+}
+.buttonBig{
+  bottom: 40%;
+  width: 100%;
+  position: absolute;
+}
 .mainButton{
   padding: 15px;
-    margin: 30px;
+    /* margin: 50px; */
     border-radius: 5px;
-    background: mediumpurple;
+    background: #da7b93;
+    border: #da7b93 solid 2px;
     color: white;
-    font-size: 12pt;
-    transition: 1s;
+    font-size: 16pt;
+    transition: .7s;
 }
 .mainButton:hover{
-  background: purple;
+  /* color: #1c3334; */
+  background: #1c3334;
+}
+
+@media only screen and (max-width: 700px){
+  .buttonBig{
+    bottom:20%
+  }
+
+  .head{
+    top: 20%;
+  }
+
+
 }

@@ -7,9 +7,9 @@ import './App.css';
 function App() {
 
   return (
-    <div className="App">
-      <header className="App-header">
-        <h2>Want to Find some new Genres?</h2>
+    <div className="">
+      <header className="">
+        {/* <h4>Want to Find some new Genres?</h4> */}
         <Main />
 
       </header>
@@ -62,9 +62,8 @@ class Genre extends React.Component {
   constructor(props) {
     super(props)
     this.state = {
-      allGenres: this.props.genreOptions[0], 
+      allGenres: this.props.genreOptions[0],
       current: "Rock",
-
       button: true
 
     }
@@ -107,14 +106,17 @@ class Genre extends React.Component {
   render() {
 
     return (
-      <div >
-        <div>
-          {this.state.current}
-
+      <div className="body">
+        {/* <div> */}
+          <h1 className="head">
+            {this.state.current}
+          </h1>
+          <div className="buttonBig">
+            <a className="mainButton" onClick={this.handleSwitchClick} >Generate Random Genre</a>
+          </div>
         </div>
-        <button className="mainButton" onClick={this.handleSwitchClick} >Generate Random Genre</button>
 
-      </div>
+      // </div>
     );
   }
 }

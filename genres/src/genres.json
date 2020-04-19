@@ -75,7 +75,7 @@
         {
             "standAlone": true,
             "suffix": false,
-            "prefix": true,
+            "prefix": false,
             "name": "Soul"
         },
         {
