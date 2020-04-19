@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5368f865e4ce6702c656d45055fee996",
+    "revision": "96cf992049317a189d5a5bd2fc9db14f",
     "url": "/dungon/index.html"
   },
   {
-    "revision": "56a75f034e8ee11b75da",
+    "revision": "c7c2fafdac2508c9231f",
     "url": "/dungon/static/css/main.fa528461.chunk.css"
   },
   {
@@ -16,15 +16,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dungon/static/js/2.a8eb861e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "56a75f034e8ee11b75da",
-    "url": "/dungon/static/js/main.b102ccde.chunk.js"
+    "revision": "c7c2fafdac2508c9231f",
+    "url": "/dungon/static/js/main.6b085e67.chunk.js"
   },
   {
     "revision": "20c9bb23a381fff2d118",
     "url": "/dungon/static/js/runtime-main.338e4f05.js"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/dungon/static/media/logo.5d5d9eef.svg"
   }
 ]);

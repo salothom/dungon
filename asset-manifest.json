@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/dungon/static/css/main.fa528461.chunk.css",
-    "main.js": "/dungon/static/js/main.b102ccde.chunk.js",
-    "main.js.map": "/dungon/static/js/main.b102ccde.chunk.js.map",
+    "main.js": "/dungon/static/js/main.6b085e67.chunk.js",
+    "main.js.map": "/dungon/static/js/main.6b085e67.chunk.js.map",
     "runtime-main.js": "/dungon/static/js/runtime-main.338e4f05.js",
     "runtime-main.js.map": "/dungon/static/js/runtime-main.338e4f05.js.map",
     "static/js/2.a8eb861e.chunk.js": "/dungon/static/js/2.a8eb861e.chunk.js",
     "static/js/2.a8eb861e.chunk.js.map": "/dungon/static/js/2.a8eb861e.chunk.js.map",
     "index.html": "/dungon/index.html",
-    "precache-manifest.74d90e2540bbce7ae896ab1cf84ebce5.js": "/dungon/precache-manifest.74d90e2540bbce7ae896ab1cf84ebce5.js",
+    "precache-manifest.7b62db93dd5ad5ec09fe9a0084f4fa29.js": "/dungon/precache-manifest.7b62db93dd5ad5ec09fe9a0084f4fa29.js",
     "service-worker.js": "/dungon/service-worker.js",
     "static/css/main.fa528461.chunk.css.map": "/dungon/static/css/main.fa528461.chunk.css.map",
-    "static/js/2.a8eb861e.chunk.js.LICENSE.txt": "/dungon/static/js/2.a8eb861e.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/dungon/static/media/logo.5d5d9eef.svg"
+    "static/js/2.a8eb861e.chunk.js.LICENSE.txt": "/dungon/static/js/2.a8eb861e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.338e4f05.js",
     "static/js/2.a8eb861e.chunk.js",
     "static/css/main.fa528461.chunk.css",
-    "static/js/main.b102ccde.chunk.js"
+    "static/js/main.6b085e67.chunk.js"
   ]
 }
