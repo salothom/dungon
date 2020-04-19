@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3952c82096d92a3e8b33beddae4351f6",
+    "revision": "5368f865e4ce6702c656d45055fee996",
     "url": "/dungon/index.html"
   },
   {
-    "revision": "697bd581fc443e2b40a8",
-    "url": "/dungon/static/css/main.78de307e.chunk.css"
+    "revision": "56a75f034e8ee11b75da",
+    "url": "/dungon/static/css/main.fa528461.chunk.css"
   },
   {
     "revision": "4b8b49f5027f4acfce14",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dungon/static/js/2.a8eb861e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "697bd581fc443e2b40a8",
-    "url": "/dungon/static/js/main.e6dc4c25.chunk.js"
+    "revision": "56a75f034e8ee11b75da",
+    "url": "/dungon/static/js/main.b102ccde.chunk.js"
   },
   {
     "revision": "20c9bb23a381fff2d118",
